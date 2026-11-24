@@ -1,4 +1,4 @@
-# seofuxx-com
+# SEOFuxx
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,111 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-seofuxx-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://seofuxx.com/
+SEOFuxx provides AI‑powered SEO analysis and optimization tools for websites, offering features such as keyword analysis, backlink indexing, content auditing, AI visibility dashboards, and automated ad creation. The platform targets startups to enterprises, delivering a full‑stack solution that combines search engine data with large language model insights to improve organic traffic and search rankings.
+
+**Areas:** SEO · AI · Marketing · Analytics · SaaS · Company
+
+## SEOFuxx on APIs.io
+
+Everything profiled for SEOFuxx is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/seofuxx-com/](https://apis.io/providers/seofuxx-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [SEOFuxx API](https://apis.io/apis/seofuxx-com/seofuxx-com-api/) — SEOFuxx API as documented publicly: 11 operations. Contract generated from the documentation by API Evangelist (2026-11-24); not the provider's own document.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (1)
+
+The data models the API reads and writes.
+
+- [PostFilemergerRequest](https://apis.io/schemas/seofuxx-com/seofuxx-com-post-filemerger-request/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Seofuxx Com Context](https://apis.io/jsonld/seofuxx-com/seofuxx-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [SEOFuxx API Rules](https://apis.io/rules/seofuxx-com/seofuxx-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [SEOFuxx Authentication](https://apis.io/security/seofuxx-com/seofuxx-com-authentication/)
+- [SEOFuxx Domain Security](https://apis.io/security/seofuxx-com/seofuxx-com-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://seofuxx.com/)
+- [Getting started](https://www.seofuxx.com/en/wiki/api-v1-quickstart)
+- [Changelog](https://www.seofuxx.com/en/changelog)
+- [Blog](https://www.seofuxx.com/en/blog)
+- [Terms of service](https://www.seofuxx.com/en/terms)
+- [Privacy policy](https://www.seofuxx.com/en/privacy)
+- [GitHub](https://github.com/b1tw0rker)
+
+## API Evangelist rating
+
+**Kin Score 40.8** — developing · rubric 0.28.0 · scored 2026-11-24
+
+| Facet | Score |
+|---|---|
+| Discoverability | 58.9 |
+| Contract quality | 45.0 |
+| Contract governance | 79.1 |
+| Operational transparency | 23.8 |
+| Developer ergonomics | 26.2 |
+| Access clarity | 27.7 |
+
+**Agent readiness 20.3** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 17.3** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/seofuxx-com/](https://apis.io/providers/seofuxx-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for SEOFuxx: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/seofuxx-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
